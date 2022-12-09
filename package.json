@@ -1,0 +1,27 @@
+{
+  "name": "random-joke-gen-project-",
+  "version": "1.0.0",
+  "description": "This project will generate random jokes using API links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-njora/random-joke-gen-project-.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "bootstrap",
+    "joke",
+    "generator",
+    "html"
+  ],
+  "author": "Mutheki Njora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-njora/random-joke-gen-project-/issues"
+  },
+  "homepage": "https://github.com/m-njora/random-joke-gen-project-#readme"
+}
