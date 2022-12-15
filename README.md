@@ -5,7 +5,7 @@ Joke Generator is a project that  generates random jokes.
 Mutheki Njora
 
 ## Description
-This joke generator uses a simple API link to collect information with the help of the fetch method and then it displys it on the webpage. A user is able to click on a button to generate a random joke each time it is clicked on.
+This joke generator uses a simple API link to collect information with the help of the fetch method and then it displyas it on the webpage. A user is able to click on a button to generate a random joke each time it is clicked on.
 
 ## Project setup instructions
 

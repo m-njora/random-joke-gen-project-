@@ -18,6 +18,5 @@ async function generateJoke(){
 
     console.log(joke);
     //set a random joke
-    jokeEl.innerHTML = joke.joke;
-    //another joke
+    jokeEl.innerHTML = joke.joke
 }
