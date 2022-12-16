@@ -7,8 +7,15 @@ Mutheki Njora
 ## Description
 This joke generator uses a simple API link to collect information with the help of the fetch method and then it displyas it on the webpage. A user is able to click on a button to generate a random joke each time it is clicked on.
 
-## Project setup instructions
+## Preriquisites
+For you to access this project ypu need;
 
+* A github account
+* Vs code or any other code editing application
+
+
+## Project setup instructions
+fork and clone this repository onto your local machine and open with vscode.
 
 
 ## Contributing
