@@ -7,7 +7,7 @@ Mutheki Njora
 ## Description
 This joke generator uses a simple API link to collect information with the help of the fetch method and then it displyas it on the webpage. A user is able to click on a button to generate a random joke each time it is clicked on.
 
-## Preriquisites
+## Prerequisites
 For you to access this project ypu need;
 
 * A github account
@@ -17,7 +17,7 @@ For you to access this project ypu need;
 ## Project setup instructions
 fork and clone this repository onto your local machine and open with vscode.
 
-# here is a link to the deployed website
+## here is a link to the deployed website
 https://m-njora-random-joke-generator.netlify.app/
 
 ## Contributing
