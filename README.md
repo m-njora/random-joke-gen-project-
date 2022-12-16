@@ -17,6 +17,8 @@ For you to access this project ypu need;
 ## Project setup instructions
 fork and clone this repository onto your local machine and open with vscode.
 
+# here is a link to the deployed website
+https://m-njora-random-joke-generator.netlify.app/
 
 ## Contributing
 
